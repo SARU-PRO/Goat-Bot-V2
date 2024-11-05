@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "sahariyajihan6@gmail.com",
-    "password": "Iwantyoulifetime-,-",
+    "email": "",
+    "password": "",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,8 +17,8 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61566770976360",
     "100024921822289",
+    "",
     ""
   ],
   "whiteListMode": {
@@ -26,8 +26,8 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "👾MIMI SIZU👾",
-  "prefix": "/",
+  "nickNameBot": "👾ZoZo_Kypto👾",
+  "prefix": "-",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
